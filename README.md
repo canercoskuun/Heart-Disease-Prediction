@@ -13,16 +13,16 @@ Accuracy: 83%
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/1925d0d0-f50a-4128-90c6-461fce131cf9)
 ## 📋 Input Fields
-Gender:The gender of the user (Male/Female)
-Age: The user's age
-Cp: Chest pain type
-Trestbps: Resting blood pressure
-Chol: Serum cholesterol level
-Fbs: Fasting blood sugar (0 or 1)
-Restecg: Resting electrocardiographic results
-Thalach: Maximum heart rate achieved
-Exang: Exercise-induced angina (0 or 1)
-Oldpeak: ST depression induced by exercise relative to rest
-Slope: The slope of the ST segment
-Ca: Number of major vessels (0-3)
-Thal: Thalassemia condition
+**Gender**:The gender of the user (Male/Female)
+**Age**: The user's age
+**Cp**: Chest pain type
+**Trestbps**: Resting blood pressure
+**Chol**: Serum cholesterol level
+**Fbs**: Fasting blood sugar (0 or 1)
+**Restecg**: Resting electrocardiographic results
+**Thalach**: Maximum heart rate achieved
+**Exang**: Exercise-induced angina (0 or 1)
+**Oldpeak**: ST depression induced by exercise relative to rest
+**Slope**: The slope of the ST segment
+**Ca**: Number of major vessels (0-3)
+**Thal**: Thalassemia condition
