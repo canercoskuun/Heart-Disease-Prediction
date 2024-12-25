@@ -3,9 +3,9 @@ This project provides a web interface that predicts the risk of heart disease us
 
 
  ## 🚀 Features
-Prediction: Predicts the risk of heart disease based on user inputs such as age, gender, and medical parameters.
-Random Forest Model: Achieves an accuracy of 83%.
-User-Friendly Interface: Designed for a simple and intuitive user experience.
+**Prediction**: Predicts the risk of heart disease based on user inputs such as age, gender, and medical parameters.
+**Random Forest Model**: Achieves an accuracy of 83%.
+**User-Friendly Interface**: Designed for a simple and intuitive user experience.
 ## 🧠 Model Details
 Algorithm Used: Random Forest
 Training Dataset: A standard dataset for heart disease prediction
