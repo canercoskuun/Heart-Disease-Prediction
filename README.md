@@ -7,9 +7,9 @@ This project provides a web interface that predicts the risk of heart disease us
 **Random Forest Model**: Achieves an accuracy of 83%.
 **User-Friendly Interface**: Designed for a simple and intuitive user experience.
 ## 🧠 Model Details
-Algorithm Used: Random Forest
-Training Dataset: A standard dataset for heart disease prediction
-Accuracy: 83%
+**Algorithm Used**: Random Forest
+**Training Dataset**: A standard dataset for heart disease prediction
+**Accuracy**: 83%
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/1925d0d0-f50a-4128-90c6-461fce131cf9)
 ## 📋 Input Fields
