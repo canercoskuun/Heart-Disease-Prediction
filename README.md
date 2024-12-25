@@ -12,7 +12,7 @@ Training Dataset: A standard dataset for heart disease prediction
 Accuracy: 83%
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/1925d0d0-f50a-4128-90c6-461fce131cf9)
-📋 Input Fields
+## 📋 Input Fields
 Gender:The gender of the user (Male/Female)
 Age: The user's age
 Cp: Chest pain type
